@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="prime">#55D6FF</color>
+    <color name="secondary">#28688C</color>
+    <color name="primeonsecond">#00386D</color>
+
+</resources>
